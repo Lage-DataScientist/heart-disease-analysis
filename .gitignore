@@ -1,0 +1,41 @@
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ================================
+# Ambientes virtuais
+# ================================
+.venv/
+venv/
+ENV/
+env/
+*/.venv/
+*/venv/
+
+# ================================
+# Jupyter Notebook
+# ================================
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# ================================
+# Configurações do editor
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ================================
+# Sistema Operativo
+# ================================
+.DS_Store
+Thumbs.db
